@@ -5,12 +5,9 @@ import cv2
 import numpy as np
 from keras.models import load_model
 import cvlib as cv
-import matplotlib.pyplot as plt
 import os
 import requests
 from PIL import Image
-import time
-import matplotlib.pyplot as plt
 import streamlit as st
 import tempfile
 # get_ipython().run_line_magic('matplotlib', 'inline')
